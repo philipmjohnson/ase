@@ -6,9 +6,10 @@
 *.fls
 *.out
 *.toc
+*.d
 
 .DS_Store
-images/.DS_Store
+
 
 ## Intermediate documents:
 *.dvi
@@ -17,8 +18,9 @@ images/.DS_Store
 *.ps
 *.eps
 *.pdf
+*.make
 
-## Keep stuff in these two directories
+## Keep everything in these two directories 
 !/images
 !/out
 
