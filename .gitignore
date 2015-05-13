@@ -8,6 +8,7 @@
 *.toc
 
 .DS_Store
+images/.DS_Store
 
 ## Intermediate documents:
 *.dvi
