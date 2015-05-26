@@ -15,7 +15,12 @@ The paper is organized into the following files:
   * paper.tex: top-level, contains title and then \\inputs the following .tex files.
   * paper-introduction.tex: the intro section
   * paper-ase-overview.tex: an overview of the ASE technique.
-  * paper-experiences.tex: initial experiences. 
+  * paper-experiences.tex: initial experiences, inputting the following .tex files: 
+
+      * paper-experiences-johnson.tex
+      * paper-experiences-port.tex
+      * paper-experiences-hill.tex
+
   * paper-future.tex: implications for the future of software engineering education.
   * paper.bib: the bibliography.
 
