@@ -1,0 +1,57 @@
+Quotes from CS~1:
+
+Preference over traditional style:
+
+The WOD based approach allows the students to effectively program. It keeps us at a faster pace in terms of programming and allows us to approach programming creatively and effectively.
+
+I like the idea of being able to complete something in a given amount of time. It is a very realistic way of learning new material, because you will never have an infinite amount of time to complete something. 
+
+The daily work did not work for me. Doing the work every day was very difficult for me to keep up with in accordance with my daily scheduled. I often fell behind because I did not have the time to keep in line with the shorter daily work.
+
+Keep you focused?
+
+I lost some concentration when doing WODs due to the time constraints. My mind would wander in fear of not finishing in time.
+
+I do think the WODs and PWODs helped me to be more focused. Once I sat down to work on either, I wouldn't stop until I had finished them.
+
+Yes. It was less stressful doing homework because I knew that the homework was not graded. The homework was there solely to help me learn, and that absence of negative pressure allowed me to focus and concentrate more so than I usually do.
+
+Competitive feelings?
+
+No, because it created a hostile environment where people were afraid to admit that they didn't understand course material outside of class. Also, it made peers less likely to help each other or provide advice.
+
+Yes, it made me want to improve and do additional work using resources outside of the class. Wanting to do better encouraged me to explore the subject and applications of what we had learned.
+
+Sometimes because it can make you work faster and better, however, it can also make you insecure if you're unable to complete a WOD on time.
+
+Confidence?
+
+Oh yeah, I would feel so good when I finally figured out the solution to a program. It was very rewarding.
+
+When I could not finish a WOD, I felt defeated. Finishing them just made me feel like I was doing what I was supposed to do.
+
+
+Quotes from CS~2:
+
+Preference over traditional style:
+
+It is much easier for me to work on a problem without an aggressive time limit because it gives me time to research the problem, develop a strategy, and continually revise my solution.
+
+This is more of a personal choice, but I like longer assignments that I feel proud of the end product, versus small mini-projects that focus on a small aspect of class. To me, longer assignments are more worthwhile and is a better way to incorporate multiple concepts.
+
+Keep you focused?
+
+Yes because the WODs force me to sit and concentrate on the coding. Knowing that I will be graded on the assignment I try my best to focus on it as much as possible. This has carried over to when I work outside of the classroom on assignments 
+
+Sure, but if I was short on time because of another assignment, the PWOD would fall to the wayside.
+
+Competitive feelings?
+
+It wasn't necessarily negative, but it wasn't realistic. In a true development team, there is more of a focus on collaboration and working together rather than a competitive focus.
+
+Confidence?
+
+No. They only put me under time pressure. I think the best programming does not happen with limited resources and strict time constraints.
+
+Yes, it proved that I can complete programming projects under pressure and a time constraint.
+
