@@ -11,6 +11,10 @@
 .DS_Store
 *.temp
 
+# IntelliJ IDEA
+ase-spring-2015.iml
+.idea
+
 
 ## Intermediate documents:
 *.dvi
