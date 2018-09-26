@@ -21,7 +21,7 @@
 *.pdf
 *.make
 
-## Keep everything in these two directories 
+## Keep everything in these two directories
 !/images
 !/out
 
@@ -134,3 +134,7 @@ sympy-plots-for-*.tex/
 # WinEdt
 *.bak
 *.sav
+
+# idea
+*.iml
+.idea
